@@ -29,7 +29,7 @@ const propiedades_arriendo = [
     habitaciones: 2,
     baños: 2,
     costo: 220,
-    smoke: false,
+    smoke: true,
     pets: true
   },
   {
@@ -41,7 +41,7 @@ const propiedades_arriendo = [
     baños: 2,
     costo: 350,
     smoke: false,
-    pets: true
+    pets: false
   }
 ]
 
